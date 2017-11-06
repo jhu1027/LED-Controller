@@ -1,5 +1,6 @@
 % Tests if the Y-Axis of the joystick is functioning properly 
 %Visualizes voltage change through real-time graph
+%Connect VCC to 5V and yaxis to Analog In, pin A0
 
 clear;
 close all;
